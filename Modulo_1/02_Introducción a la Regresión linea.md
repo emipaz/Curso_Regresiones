@@ -271,7 +271,7 @@ Estos temas se desarrollarán más adelante en el curso.
 
 > La variable dependiente es la variable que estima el modelo dado. Tiende a variar en función de los valores de las variables independientes. Las variables independientes también se denominan variables explicativas o predictoras. 
 
-## Rellene el espacio en blanco: El objetivo del análisis de regresión es utilizar las matemáticas para definir la _____ entre las X y las Y de la muestra con el fin de comprender cómo interactúan las variables.
+### Rellene el espacio en blanco: El objetivo del análisis de regresión es utilizar las matemáticas para definir la _____ entre las X y las Y de la muestra con el fin de comprender cómo interactúan las variables.
 
 
 - [ ] independencia

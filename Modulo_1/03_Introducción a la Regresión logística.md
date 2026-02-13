@@ -119,9 +119,29 @@ En secciones posteriores se estudiará:
 
 Gracias a la potencia computacional actual, los profesionales de datos pueden centrarse menos en los cálculos manuales y más en la **interpretación y narración de resultados**, comprendiendo siempre qué ocurre detrás del modelo.
 
+## Autoevaluacion
 
-## Comparando la regrecion logistica y la lineal
-### Categorization exercise
+### Qué es una función no lineal que conecta o vincula matemáticamente una variable dependiente con las variables independientes?  
+
+- [ ] Función de pérdida
+- [ ] Función de regresión
+- [ ] Función de relación
+- [x] Función de enlace
+
+> La función de enlace conecta, o enlaza, matemáticamente una variable dependiente con las variables independientes. Los profesionales de los datos utilizan la función de enlace para expresar la relación entre las X y la probabilidad de que Y sea igual a algún resultado.
+
+### ¿Qué tipo de regresión modela una variable categórica en función de una o varias variables independientes?
+
+- [ ] Coeficiente de regresión
+- [ ] Regresión lineal
+- [ ] Regresión ordinaria
+- [x] Regresión logística
+
+> 
+> La regresión logística modela una variable categórica en función de una o más variables independientes. La variable dependiente puede tener dos o más valores discretos posibles.
+
+
+## Categorization exercise
 
 ### Fundamantal para la ciencia de datos:
 
@@ -170,26 +190,4 @@ Gracias a la potencia computacional actual, los profesionales de datos pueden ce
 - [ ] Regresión Lineal
 - [x] Regresión Logistica
 - [ ] Ambas
-
-## Autoevaluacion
-
-### Qué es una función no lineal que conecta o vincula matemáticamente una variable dependiente con las variables independientes?  
-
-- [ ] Función de pérdida
-- [ ] Función de regresión
-- [ ] Función de relación
-- [x] Función de enlace
-
-> La función de enlace conecta, o enlaza, matemáticamente una variable dependiente con las variables independientes. Los profesionales de los datos utilizan la función de enlace para expresar la relación entre las X y la probabilidad de que Y sea igual a algún resultado.
-
-### ¿Qué tipo de regresión modela una variable categórica en función de una o varias variables independientes?
-
-- [ ] Coeficiente de regresión
-- [ ] Regresión lineal
-- [ ] Regresión ordinaria
-- [x] Regresión logística
-
-> 
-> La regresión logística modela una variable categórica en función de una o más variables independientes. La variable dependiente puede tener dos o más valores discretos posibles.
-
 

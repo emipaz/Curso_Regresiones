@@ -34,9 +34,9 @@
 
 ## Un profesional de los datos crea un modelo en Python y vuelve a comprobar los supuestos del modelo. ¿En qué etapa PACE están trabajando?
 
-- [x] Ejecución
+- [ ] Ejecución
 - [ ] Analice
-- [ ] Construya
+- [x] Construya
 - [ ] Planificación
 
 
@@ -73,6 +73,14 @@
 - [x] Correlación positiva
 - [ ] Correlación negativa
 
+## ¿Qué es una relación inversa entre dos variables, en la que una variable aumenta y la otra tiende a disminuir?
+
+- [ ] Causalidad positiva
+- [ ] Causalidad negativa 
+- [ ] Correlación positiva
+- [x] Correlación negativa
+
+
 ## ¿Qué describe una relación en la que una variable lleva directamente a otra a cambiar de una manera determinada?
 
 - [c] Causalidad
@@ -106,14 +114,27 @@
 - [ ] Regresión logística
 - [x] Coeficiente de regresión
 
+## Una consulta veterinaria quiere determinar si la mayoría de los pacientes nuevos elegirán volver para recibir atención de seguimiento. Un analista de datos de la consulta investiga esta cuestión modelizando una variable categórica basada en una o más variables independientes. ¿Qué técnica utiliza?
+
+- [ ] Regresión de la pendiente
+- [ ] Coegiciente de regresión
+- [x] Regresión Logística
+- [ ] Regresión Lineal
+
 
 ## Rellene el espacio en blanco: Un _____ conecta matemáticamente la variable dependiente con las variables independientes.
-
 
 - [x] Función de enlace
 - [ ] Función coeficiente
 - [ ] Regresión de enlaces
 - [ ] Coeficiente de regresión
+
+## Un profesional de los datos quiere conectar matemáticamente la variable dependiente y la variable independiente. ¿Qué función puede permitirles realizar esta conexión?
+
+- [ ] Función coeficiente
+- [x] Función de enlace
+- [ ] Coeficiente de regresión
+- [ ] Regresión de enlaces
 
 
 ## Usted tiene una ecuación de regresión en la forma de $\hay{y} = 3 + 4 X $
