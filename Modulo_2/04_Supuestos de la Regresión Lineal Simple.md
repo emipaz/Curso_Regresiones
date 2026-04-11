@@ -246,6 +246,9 @@ Por ahora, ¡concéntrese en algunos enfoques esenciales para empezar!
 
 No es necesario memorizar todo inmediatamente. El análisis de datos es un **proceso iterativo**. Puede volver a estos conceptos, verificar si los supuestos se alinean con los datos y continuar refinando el modelo.
 
+.
+
+
 
 
 
