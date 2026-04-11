@@ -56,7 +56,7 @@ Hay varias funciones de Python que se pueden utilizar para leer los datos y crea
 sns.pairplot(chinstrap_penguins)
 ```
 
-![pairplot](img\pairplot.png)
+![pairplot](img/pairplot.png)
 
 
 ### Interpretación
@@ -95,7 +95,7 @@ El diagrama cuantil-cuantil(diagrama Q-Q) es una herramienta gráfica utilizada 
 
 En la figura siguiente, el primer gráfico Q-Q representa datos que se tomaron de una distribución normal. Forma una línea cuando se compara con los cuantiles de una distribución normal estándar. El segundo gráfico representa datos extraídos de una distribución exponencial. El tercer gráfico utiliza datos extraídos de una distribución uniforme. Observa cómo el segundo y el tercer gráfico no se adhieren a una línea.
 
-![pairplot](img\graficos_qq.png)
+![pairplot](img/graficos_qq.png)
 
 
 ### Interpretación
@@ -119,7 +119,7 @@ plt.show()
 ```
 
 
-![pairplot](img\qq_of_residuals.png)
+![pairplot](img/qq_of_residuals.png)
 
 Y aquí hay un histograma de los mismos datos:
 
@@ -131,7 +131,7 @@ plt.show()
 ```
 
 
-![pairplot](img\histogram_of_residuals.png)
+![pairplot](img/histogram_of_residuals.png)
 
 ---
 
@@ -170,7 +170,7 @@ fig.set_ylabel("Residuals")
 plt.show()
 ```
 
-![pairplot](img\fitted_vs_residuals.png)
+![pairplot](img/fitted_vs_residuals.png)
 
 
 ### Interpretación
